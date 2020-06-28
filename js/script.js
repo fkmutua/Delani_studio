@@ -13,7 +13,6 @@ $(document).ready(function() {
     });
 });
 
-
 $(document).ready(function() {
     $("div.image-frame").hover(function() {
         $(".classAdd1").addClass("mask flex-center rgba-red-strong");
