@@ -28,7 +28,7 @@ $(document).ready(function() {
     });
 });
 
-function myMessage() {
+function onSubmit() {
     var name = document.getElementById("name").value;
     var email = document.getElementById("email").value;
     var message = document.getElementById("comment").value;
