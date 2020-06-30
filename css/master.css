@@ -10,26 +10,6 @@ h2 {
     padding-top: 10px;
 }
 
-.logo {
-    padding: 50px;
-    background-color: black;
-    background-image: url('../images/shoes.jpg');
-    height: 100%;
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
-#mouse-flick {
-    animation: bounce 3s infinite;
-    padding-top: 5%;
-}
-
-img#mouse-click {
-    padding-top: 22px;
-    margin-top: 10%;
-    padding-bottom: 30px;
-}
-
 img {
     vertical-align: middle;
     border-style: none;
@@ -55,6 +35,26 @@ img {
     background-color: white;
     color: black;
     font-size: 15px;
+}
+
+.logo {
+    padding: 50px;
+    background-color: black;
+    background-image: url('../images/shoes.jpg');
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#mouse-flick {
+    animation: bounce 3s infinite;
+    padding-top: 5%;
+}
+
+img#mouse-click {
+    padding-top: 22px;
+    margin-top: 10%;
+    padding-bottom: 30px;
 }
 
 .services {
