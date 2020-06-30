@@ -16,7 +16,7 @@ h2 {
 .well {
     padding: 50px;
     background-color: black;
-    background-image: url('../images/wall.jpg');
+    background-image: url('../images/shoes.jpg');
     height: 100%;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ img {
 
 .services {
     padding: 85px;
-    background-image: url('../images/lappy.jpg');
+    background-image: url('../images/laptop.jpg');
     background-repeat: no-repeat;
 }
 
@@ -127,7 +127,7 @@ img {
 .contact {
     padding-top: 35px;
     padding-bottom: 40px;
-    background-image: url('../images/machine.jpg');
+    background-image: url('../images/mechanical.jpg');
     background-repeat: no-repeat;
 }
 
