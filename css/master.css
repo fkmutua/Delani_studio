@@ -10,7 +10,7 @@ h2 {
     padding-top: 10px;
 }
 
-.well {
+.logo {
     padding: 50px;
     background-color: black;
     background-image: url('../images/shoes.jpg');
@@ -35,7 +35,7 @@ img {
     border-style: none;
 }
 
-.text-well {
+.logo-part {
     padding-top: 14%;
     color: white;
     font-size: 12px;
@@ -45,7 +45,7 @@ img {
     padding-top: 8%;
 }
 
-.text-pad {
+.logo-image {
     padding-bottom: 10px;
     padding-top: 10px;
 }
