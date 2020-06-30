@@ -10,9 +10,6 @@ h2 {
     padding-top: 10px;
 }
 
-
-/* //WELCOME */
-
 .well {
     padding: 50px;
     background-color: black;
@@ -53,18 +50,12 @@ img {
     padding-top: 10px;
 }
 
-
-/* //ABOUT */
-
 .about {
     padding: 30px;
     background-color: white;
     color: black;
     font-size: 15px;
 }
-
-
-/* //SERVICES */
 
 .services {
     padding: 85px;
@@ -76,9 +67,6 @@ img {
     color: white;
     font-size: 15px;
 }
-
-
-/* //WHAT WE DO */
 
 .wwd {
     padding: 50px;
@@ -98,9 +86,6 @@ img {
     display: none;
 }
 
-
-/* //TABLE */
-
 .table {
     padding-top: 20px;
     margin-left: 20px;
@@ -111,18 +96,12 @@ img {
     font-size: 12px;
 }
 
-
-/* //PORTFOLIO */
-
 .portfolio {
     align-content: center;
     align-items: center;
     align-self: center;
     padding-bottom: 40px;
 }
-
-
-/* //CONTACT */
 
 .contact {
     padding-top: 35px;
@@ -202,9 +181,6 @@ div.contact-btn button:hover {
     background: transparent;
     color: white;
 }
-
-
-/* //FOOTER */
 
 .foot-img {
     margin-bottom: 10px;
