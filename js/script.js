@@ -1,15 +1,15 @@
 $(document).ready(function() {
-    $(".onCrack1").click(function() {
-        $("#click1").toggle();
+    $(".design-1").click(function() {
+        $("#design-1.click").toggle();
         $("#magic1").toggle();
     });
-    $(".onCrack2").click(function() {
+    $(".design-2").click(function() {
         $("#magic2").toggle();
-        $("#click2").toggle();
+        $("#design-2.click").toggle();
     });
-    $(".onCrack3").click(function() {
+    $(".design-3").click(function() {
         $("#magic3").toggle();
-        $("#click3").toggle();
+        $("#design-3.click").toggle();
     });
 });
 
